@@ -1,0 +1,1 @@
+[08:41:22.491] INFO (701227): Starting test: Fetch a post from JSONPlaceholder API
